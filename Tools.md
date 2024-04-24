@@ -9,6 +9,7 @@ Este repositorio proporciona una breve recopilación de herramientas útiles y r
 
   ## Herramientas Generales
   - [OSINT Framework](https://osintframework.com/)
+  - [Archive](https://archive.org/)
 </details>
 
 <details>
@@ -41,6 +42,19 @@ Este repositorio proporciona una breve recopilación de herramientas útiles y r
   - [Instantusername](https://instantusername.com/#/)
   - [Blackbird](https://blackbird-osint.herokuapp.com/)
   - [Sherlock](https://github.com/sherlock-project/sherlock)
+</details>
+
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold;">FIMMINT</summary><br><br>
+
+  FIMMINT (Inteligencia de Medios Financieros) es una disciplina de análisis que se enfoca en la recopilación y evaluación de información relacionada con transacciones financieras, flujos de dinero y actividades económicas. Esta área de inteligencia es fundamental en la detección de actividades ilícitas como el lavado de dinero, el fraude financiero y el financiamiento del terrorismo. Los investigadores de FIMMINT utilizan una variedad de fuentes, incluyendo bases de datos financieras, informes gubernamentales, análisis de datos y herramientas de inteligencia financiera, para identificar patrones, tendencias y posibles actividades delictivas en el ámbito financiero.
+
+</details>
+
+  ## Blockchain
+  - [Blockchain Explorer](https://www.blockchain.com/explorer)
+  - [BIN Codes](https://www.bincodes.com/bin-checker/)
+  - [Bin Code](https://bincheck.io/es#google_vignette)
 </details>
 
 
