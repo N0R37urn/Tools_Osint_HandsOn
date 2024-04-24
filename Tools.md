@@ -10,6 +10,7 @@ Este repositorio proporciona una breve recopilación de herramientas útiles y r
   ## Herramientas Generales
   - [OSINT Framework](https://osintframework.com/)
   - [Archive](https://archive.org/)
+  - [Antecedentes](https://antecedentes.policia.gov.co:7005/WebJudicial/)
 </details>
 
 <details>
@@ -51,10 +52,22 @@ Este repositorio proporciona una breve recopilación de herramientas útiles y r
 
   ## Blockchain
   - [Blockchain Explorer](https://www.blockchain.com/explorer)
+    
+  ## Bin y Bancos
   - [BIN Codes](https://www.bincodes.com/bin-checker/)
   - [Bin Code](https://bincheck.io/es#google_vignette)
 </details>
 
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold;">Cyber Intelligence (CYBINT)</summary><br><br>
+
+  Cyber Intelligence (CYBINT) es una disciplina que se centra en la recopilación, análisis y explotación de información relacionada con amenazas, vulnerabilidades y actividades cibernéticas. Esta área de inteligencia es esencial en la identificación y mitigación de riesgos de seguridad cibernética, así como en la protección de sistemas, redes y datos contra ataques maliciosos. Los profesionales de CYBINT utilizan una variedad de fuentes, técnicas y herramientas especializadas para monitorear el panorama de amenazas cibernéticas, identificar actores maliciosos y anticipar posibles ataques. Al comprender las tácticas, técnicas y procedimientos utilizados por los adversarios cibernéticos, los analistas de CYBINT pueden desarrollar estrategias efectivas para fortalecer la postura de seguridad cibernética de una organización.
+
+ ## Whois
+  - [Whoix](https://www.whoxy.com/)
+  - [Whois](https://whois.domaintools.com/)
+  - [Iplocation](https://iplocation.com/)
+</details>
 
 
 
