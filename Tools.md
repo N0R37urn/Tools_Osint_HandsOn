@@ -1,17 +1,5 @@
-
-# Socmint
-
-## Enumeración de usuarios
-- Whatsmyname: https://whatsmyname.app/
-- Instantusername: https://instantusername.com/#/
-- Blackbird: https://blackbird-osint.herokuapp.com/
-- Sherlock: https://github.com/sherlock-project/sherlock
--
-
-
-
 <details>
-  <summary>GEOINT</summary>
+  <summary style="font-size: 1.2em; font-weight: bold;">GEOINT</summary>
 
   ## Mapas
   - [Google Maps](https://www.google.com/maps/)
@@ -30,6 +18,15 @@
   - [PhotOsint](https://chromewebstore.google.com/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd)
 </details>
 
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold;">SOCMINT</summary>
+
+  ## Enumeración de usuarios
+  - [Whatsmyname](https://whatsmyname.app/)
+  - [Instantusername](https://instantusername.com/#/)
+  - [Blackbird](https://blackbird-osint.herokuapp.com/)
+  - [Sherlock](https://github.com/sherlock-project/sherlock)
+</details>
 
 
 
