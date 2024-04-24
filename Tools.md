@@ -11,6 +11,14 @@ Este repositorio proporciona una breve recopilación de herramientas útiles y r
   - [OSINT Framework](https://osintframework.com/)
   - [Archive](https://archive.org/)
   - [Antecedentes](https://antecedentes.policia.gov.co:7005/WebJudicial/)
+
+  ## Herramientas de Metadatos de Imágenes
+  - [ExifMeta](https://exifmeta.com/)
+  - [EzGif](https://ezgif.com/view-metadata/ezgif-1-3fbf93f66e.jpg)
+
+  ## Herramientas de Conversión de Coordenadas GPS
+  - [SunEarthTools](https://www.sunearthtools.com/dp/tools/conversion.php)
+  - [Coordenadas GPS](https://www.coordenadas-gps.com/convertidor-de-coordenadas-gps)
 </details>
 
 <details>
