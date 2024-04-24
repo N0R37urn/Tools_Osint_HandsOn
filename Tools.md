@@ -78,4 +78,10 @@ Este repositorio proporciona una breve recopilación de herramientas útiles y r
 </details>
 
 
+Aquí te dejo unas lecturas interesantes sobre Osint y algunos blogs de soluciones de retos.
+- [Osint - Investigación](https://medium.com/@osinteame/osint-open-source-intelligence-aplicado-a-las-investigaciones-10d2599f4296)
+- [Osint as a Mindset](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d)
+- [Retos de Inteligencia de imagenes](https://medium.com/@manuelbot59/osint-c%C3%B3mo-resolver-retos-de-inteligencia-de-im%C3%A1genes-imint-a-partir-de-una-foto-obtenida-9c90b7f6ef81)
+
+
 
