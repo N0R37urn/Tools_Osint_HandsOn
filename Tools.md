@@ -60,6 +60,7 @@ Este repositorio proporciona una breve recopilación de herramientas útiles y r
 
   ## Blockchain
   - [Blockchain Explorer](https://www.blockchain.com/explorer)
+  - [Yahoo Finance](https://es.finance.yahoo.com/quote/BTC-USD/history)  Para consultar precios de Criptomonedas
     
   ## Bin y Bancos
   - [BIN Codes](https://www.bincodes.com/bin-checker/)
